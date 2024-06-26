@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DeveloperArhamAli
 - 👀 I’m a Web Developer.
 - 🌱 I’m currently learning Node.JS
-- 📫 How to reach me - https://instagram.com/m.arhamalikhan.mak
 - Web Dev Crash Course Assigments Link: https://developerarhamali.github.io/Web-Dev-Crash-Course-Assigments/
 
 <!---
